@@ -1,6 +1,8 @@
 MusiGAN
 ==============================
 
+[![Join the chat at https://gitter.im/kthakore/musician](https://badges.gitter.im/kthakore/musician.svg)](https://gitter.im/kthakore/musician?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 GAN implementation to generate music samples. This repo is the repository for 
 research into GAN and feature engineering on audio samples. Most of the research 
 is in the notebooks/ folder. 

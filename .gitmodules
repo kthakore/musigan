@@ -1,0 +1,3 @@
+[submodule "src/fma"]
+	path = src/fma
+	url = https://github.com/mdeff/fma.git
